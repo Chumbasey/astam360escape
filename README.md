@@ -62,7 +62,6 @@
 
 | Room | Type | Beds | Balcony | Toilet | Capacity | Price |
 |:----:|:-----|:-----|:-------:|:------:|:--------:|:-----:|
-| **0** | Twin Room Suite | 4 Queen (2 per room) | ❌ | Non-western | Up to 8 guests | Contact us |
 | **1** | Standard Room | 2 Queen | ❌ | ✅ Western | Up to 4 guests | NPR 2,000/person |
 | **2** | Family Scenic Room | 1 Queen + 2 Single | ✅ | ✅ Western | Up to 4 guests | NPR 2,000/person |
 | **3** | Balcony View Room | 2 Queen | ✅ | ✅ Western | Up to 4 guests | NPR 2,000/person |
